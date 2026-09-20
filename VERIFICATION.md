@@ -4,7 +4,7 @@ Elysia on Bun taskboard — xCloud app-compatibility fixture.
 
 ## Candidate commit
 
-- Commit SHA: `384daeefc5ac3cf6aa2e7d3e22b9a94b8106288b`
+- Commit SHA: `pending` (filled by the PR head / coordinator manifest)
 - Branch/PR: `feat/compatibility-elysia` (PR pending reviewer)
 - Repository: `xCloudNobin/deploy-test-elysia`
 
